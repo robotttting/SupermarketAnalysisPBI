@@ -6,3 +6,4 @@
 3. Survey: responses of customers about the supermarket  
  
 ## <ins> Market Basket for Transaction Items </ins>
+![](img/MBtrans.png) 
